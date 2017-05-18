@@ -1,0 +1,8 @@
+Debug
+.cssproject
+.cproject
+.launches
+settings
+*.cmd
+*.ccxml
+*.targetConfigs
